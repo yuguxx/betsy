@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'betsy',
+  name: '2skydev blog',
   domain: 'blog.2skydev.com',
-  author: 'betsy
+  author: '2skydev',
 
   // open graph metadata (optional)
   description: '2skydev blog - developer blog',
